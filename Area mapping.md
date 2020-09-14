@@ -8,7 +8,7 @@ Currently, geographic areas defined by Employment and CPI dataset are differenct
 --- | --- | ---
 Birmingham-Hoover, AL | South - Size Class B/C | Size B/C - East South South Central (South)
 Huntsville, AL | South - Size Class B/C	| Size B/C - East South Central (South)
-Anchorage, AK | Urban Alaska | Core - Pacific (West)
+Anchorage, AK | Urban Alaska | **Core** - Pacific (West)
 Phoenix-Mesa-Scottsdale, AZ | Phoenix-Mesa-Scottsdale, AZ | **Core** - Mountain (West)
 Yuma, AZ | West - Size Class B/C | Size B/C - Mountain (West)
 Chico, CA | West - Size Class B/C | Size B/C - Pacific (West)
