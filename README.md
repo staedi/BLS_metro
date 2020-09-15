@@ -2,7 +2,7 @@
 This is the reconstruction of works I did at the end of 2018 as a final-term project to analyze and predict (naively)
  which metro region is the best in terms of price inflations and wage levels.
  
-Despite the change in the analytical tool, main proceducre is similar.
+Despite the change in the analytical tool into `R`, main proceducre is similar.
 
 ## Data sources
 [US Bureau of Labor Statistics](http://bls.gov)
