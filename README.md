@@ -4,6 +4,11 @@ This is the reconstruction of works I did at the end of 2018 as a final-term pro
  
 Despite the change in the analytical tool, main proceducre is similar.
 
+## Data sources
+[US Bureau of Labor Statistics](http://bls.gov)
+* [State and Metro Area Employment, Hours & Earnings](https://www.bls.gov/sae/)
+* [Consumer Price Index - All Urban Wage earners and clerical workers (CPI-W)](https://www.bls.gov/cpi/data.htm)
+
 ## Basic idea
 * Which areas will be better off when it comes to wage increases compared to 2010 and number of **Finance** job opportunities? (This is because I was studying Finance at the time)
 * Which area is less expensive in terms of inflations (Consumer Price Index, specifically) ?
