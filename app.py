@@ -78,5 +78,5 @@ if sel_sector != 'Choose one':
 st.subheader('Credits')
 data_source = 'US Bureau of Labor Statistics'
 st.write('Data source: ' + data_source)
-st.write('Map shapedata: Natural Earth')
+st.write('Map shapedata: US Census Bureau')
 st.write('Map provider: Mapbox, OpenStreetMap')
