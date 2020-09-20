@@ -20,10 +20,12 @@ The analysis framework has recently been incorporated into web application with 
 * Scenario: Spending category based on Consumer Price Index summary data
 
 ### Features
-Charts
 * Scatter chart: Laying out relations between Employees numbers and Workers' average hourly earnings
 * Stacked bar chart: Disect items of price index (Weight values are applied on the graph)
 * Bar chart: Compare pricing power of metro-areas (calculated with **wages increases** over **price increases** for the given timeframes)
+* Choropleth: Show each metro-area on US maps with calculated information 
+ * Color depths: *Blue* to *Red* according to **Pricing Power** (neutral means border-line)
+ * Elevations: **Employment strengths**
 
 ## Basic idea
 
