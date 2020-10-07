@@ -8,6 +8,7 @@ The analysis framework has recently been incorporated into web application with 
 [US Bureau of Labor Statistics](http://bls.gov)
 * [State and Metro Area Employment, Hours & Earnings](https://www.bls.gov/sae/)
 * [Consumer Price Index - All Urban Wage earners and clerical workers (CPI-W)](https://www.bls.gov/cpi/data.htm)
+
 [US Census Bureau](https://census.gov)
 * [Cartographic Boundary Files - Shapefile](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
