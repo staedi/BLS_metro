@@ -2,7 +2,7 @@
 This is the reconstruction of works I did at the end of 2018 as a final-term project to analyze and predict (naively)
  which metro region is the best in terms of price inflations and wage levels.
  
-The analysis framework has recently been incorporated into web application with `Streamlit`, which is accesible via [heroku](https://streamlit-bls.herokuapp.com) 
+The analysis framework has recently been incorporated into web application with `Streamlit`, which is accesible via [Streamlit sharing](https://share.streamlit.io/staedi/bls_metro/app.py) 
 
 ## Data sources
 US Bureau of Labor Statistics
