@@ -79,4 +79,4 @@ st.subheader('Credits')
 data_source = 'US Bureau of Labor Statistics'
 st.write('Data source: ' + data_source)
 st.write('Map shapedata: US Census Bureau')
-st.write('Map provider: Mapbox, OpenStreetMap')
+st.write('Map provider: Carto')
