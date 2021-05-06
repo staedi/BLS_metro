@@ -32,7 +32,7 @@ def display_sidebar(data):
     # st.text([val[1] for val in read_columns.values()])
     st.sidebar.markdown('Choose an year to compare')
     base_year = 2010
-    latest_year = datetime.now().year-1
+    latest_year = 2019 #datetime.now().year-1
 
     sel_year = st.sidebar.slider('Target year',min_value=base_year,max_value=latest_year,value=latest_year)
 
@@ -147,6 +147,7 @@ def show_map(data,geo_path,stat=None):
     r = pdk.Deck(
         layers=[polygon_layer],
         initial_view_state=view_state,
+        map_style='light',
         tooltip=tooltip,
         )
 
