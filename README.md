@@ -1,3 +1,6 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/staedi/bls_metro/app.py)
+
+
 # BLS_metro
 This is the reconstruction of works I did at the end of 2018 as a final-term project to analyze and predict (naively)
  which metro region is the best in terms of price inflations and wage levels.
